@@ -16,7 +16,7 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 
-#Recoded By : MiSetya
+#AUTHOT by : MR • KALIT09
 #Tool Unfaedah :v
 
 clear
@@ -24,13 +24,13 @@ clear
             echo $pur"  ╦ ╦╔╗╔╔═╗╔═╗╔═╗╔╦╗╔═╗╦ ╦   "      
             echo $pur"  ║ ║║║║╠╣ ╠═╣║╣  ║║╠═╣╠═╣"
             echo $pur"  ╚═╝╝╚╝╚  ╩ ╩╚═╝═╩╝╩ ╩╩ ╩"
-            echo $mer"  ×××Tool Unfaedah | MiSetya××× $st"
+            echo $mer"  ×××Tool Unfaedah | MRKALIT09××× $st"
 
 lagi=1
 while [ $lagi -lt 6 ];
 do
 echo""
-echo $cy"1. Sadap WA work ni ajg :v ";
+echo $cy"1. Sadap WA Belom Modar ajg :v ";
 echo $pur"====================]" 
 echo $cy"2. Hack Satelit";
 echo $pur"====================]" 
@@ -44,7 +44,7 @@ echo $cy"6. Santet Online";
 echo $pur"====================]"        
 echo $i"7. EXIT $st";
 echo ""
-echo    $mer"╭─Pilih Nomor Berapa Ajg!!? $st " 
+echo    $mer"╭─Pilih Nomor Berapa tol!!? $st " 
 read -p "╰─•>  " pil; 
 
 case $pil in
@@ -60,36 +60,36 @@ echo $i "
 
 "
 echo ""
-echo -n $cy"Ini Isi Nomor Target:"
+echo -n $cy"Ini Isi Nomor Nya Anjg:"
 read tr
 echo "============================" | lolcat
-echo -n $cy"Nah ini isi nomor lu : "
+echo -n $cy"Isi Lagi Ya Tod : "
 read lu
 clear
-echo "Sabar ajg lagi nyadap ini $tr" | lolcat
+echo "orang Sabar Di sayang Jamda om $tr" | lolcat
 echo ""
-echo $mer " Tunggu Sekitar 3menit ya tod $st"
+echo $mer " mohon tunggu sebentar  $st"
 echo ""
 sleep 50
-echo $cy " Sedang Mengambil Chat Terbaru tod "
+echo $cy " Sedang Mengambil Isi chat Istri mu "
 sleep 4
-echo $bi " Chat Terbaru Dengan 'Dimas' "
+echo $bi " Chat Terbaru Dengan 'Anak kontol' "
 echo $cy  " <Kemarin> "
 echo ""
-echo $pu " Dimas: woy $cy[09:22]"
-echo $i " Me : Apaan Dim? $cy[09:22]"
+echo $pu " Dimas: woy lonte $cy[09:22]"
+echo $i " Me : Apaan pek? $cy[09:22]"
 echo $pu " Dimas : Besok Masuk Jam Brp? $cy[09:23]"
-echo $i " Me : Ya seperti biasa jam 7 $cy[09.23]"
-echo $pu " Dimas : Bareng kita berangkat ya, gua jemput lu besok $cy[09.24]"
-echo $i " Me : Gua maless dah sekolah besok, dirumah ga ada org ortu gua pergi besok $cy[09:24]"
-echo $pu " Dimas : Ya udh gak usah masuk kita besok $cy[09:25]"
-echo $i " Me : Ashiiiaaap.. Main dirumah gua aja besok $cy[09:26]"
+echo $i " Me : Ya seperti biasa lah kntl jam 7 $cy[09.23]"
+echo $pu " Dimas : Bareng kita berangkat ya, gua khentu  lu besok $cy[09.24]"
+echo $i " Me : Gua maless Bagusan Colmek, dirumah ga ada org ortu gua pergi besok $cy[09:24]"
+echo $pu " Dimas : Ya udh gak usah masuk khentu yok $cy[09:25]"
+echo $i " Me : Ashiiiaaap.. Main dirumah aja jangan di semak² $cy[09:26]"
 echo $pu " Dimas : Oke Oke $cy[09:36]"
 echo $pu " Dimas : Eh VCS kuy.. $cy[15:06]"
 echo $i " Me : Hmm.. kuy lah.. lagi bosen gua $cy[15:06]"
 echo $pu " Dimas : Oke dah, gua mau off, besok gua kerumah lu $cy[17:05]"
-echo $i " Me : Ok.. Besok kita senang-senang.. $cy[17:22]"
-echo $pu " Dimas : Wkwk.. ashiapp.. Lope you 😘😘 $cy[17:22]"
+echo $i " Me : Ok.. Besok ngemtod Ampe Mampus tu Batang.. $cy[17:22]"
+echo $pu " Dimas : Wkwk.. oke Awas Meqi Lu rusak 😘😘 $cy[17:22]"
 exit
 ;;
 
@@ -118,10 +118,10 @@ sh 6.sh
 exit
 ;;
 
-7) echo $cy " Dadah anak SETAN"
+7) echo $cy " jauh sana anak Dajjal"
 exit
 ;;
-*) echo " GUD KAN GABUTNYA " | lolcat
+*) echo "kurang Gabud Nya? " | lolcat
 esac
 done
 done
